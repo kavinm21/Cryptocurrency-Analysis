@@ -14,4 +14,5 @@ The data consists of the following:
 7. Market capitalization in USD
 
 Here, we didn't treat the data as Time Series since there was an overall increasing trend and wasn't periodic or seasonal.
-The highest price of the day was chosen to be predicted, and supervised learning models for regression were applied
+The highest price of the day was chosen to be predicted, and supervised learning models for regression were applied.
+We aimed to build a model that can describe the historical data, not predict the future data.
