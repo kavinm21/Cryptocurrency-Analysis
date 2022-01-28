@@ -18,7 +18,7 @@ Models Used:
 2. K-NN Regression
 3. SVM Regression
 4. Decision Tree Regression
-5. Gradient Boosted Regression
+5. Gradient Boost Regression
 6. Random Forest Regression
 
 Here, we didn't treat the data as Time Series since there was an overall increasing trend and wasn't periodic or seasonal.
