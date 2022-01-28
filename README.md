@@ -13,6 +13,14 @@ The data consists of the following:
 6. Volume of transactions of the day
 7. Market capitalization in USD
 
+Models Used:
+1. Linear Regression
+2. K-NN Regression
+3. SVM Regression
+4. Decision Tree Regression
+5. Gradient Boosted Regression
+6. Random Forest Regression
+
 Here, we didn't treat the data as Time Series since there was an overall increasing trend and wasn't periodic or seasonal.
 The highest price of the day was chosen to be predicted, and supervised learning models for regression were applied.
 The goal was to **build a model that can describe the historical data**.
