@@ -1,4 +1,4 @@
-# Cryptocurrency-Analysis
+# Cryptocurrency-Analysis (Crypto-History)
 Applying different regression models on Cryptocurrency data
 
 The data is from kaggle at https://www.kaggle.com/sudalairajkumar/cryptocurrencypricehistory which was created using the data published in coinmarketcap.com
